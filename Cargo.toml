@@ -1,0 +1,16 @@
+[package]
+name = "float-clock-wayland"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+gtk = "0.18"
+gtk-layer-shell = "0.8"
+glib = "0.18"
+chrono = "0.4"
+clap = { version = "4.4", features = ["derive"] }
+cairo-rs = "0.18"
+pango = "0.18"
+pangocairo = "0.18"
+serde = { version = "1.0", features = ["derive"] }
+toml = "0.8"
