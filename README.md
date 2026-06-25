@@ -12,15 +12,12 @@ This lightweight Wayland clock widget is designed to function as an overlay that
 ![Demostration image of the float-clock-wayland widget on a Wayland desktop](demostration.png)
 
 ### Screenshot
-![Screenshot of the feature goes here… assuming Future Me remembers to upload it.](screenshot.png)
 
+<img width="1364" height="766" alt="Screenshot of the feature." src="https://github.com/user-attachments/assets/e2bc5de3-891f-4daf-8001-cfbdddd92bbb" />
 
 ### Demonstration Video
-<!--
-You can embed a demo video here.
-Example: <video src="demo.mp4" width="600" controls></video>
--->
-_[ ] Demonstration video of the feature goes here… assuming Future Me remembers to upload it._
+
+https://github.com/user-attachments/assets/87693a23-b6cb-4e57-b933-3bec3301b069
 
 ---
 
